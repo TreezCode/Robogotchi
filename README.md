@@ -1,11 +1,11 @@
 # Killer Mutant Robogotchis 🤖👽👾
 
-Demo: [Robogotchi](https://i.imgur.com/CiIIwC5.gifv)
+Demo: [Robogotchi](https://trilogy-project-2.herokuapp.com)
 ## About 📖
 Robogotchi is a browser based game where the user creates a cyber pet and must maintain its health status.
 
 <br>
-<img src= "https://imgur.com/CiIIwC5" alt="Robogotchi" width="75%">
+<img src= "https://i.imgur.com/CiIIwC5.gifv" alt="Robogotchi" width="75%">
 <hr>
 
 ## How to Use 🤔
