@@ -1,4 +1,4 @@
-# Killer Mutant Robogotchis 🤖👽👾
+# Robogotchi 🤖👽👾
 
 Demo: [Robogotchi](https://trilogy-project-2.herokuapp.com)
 ## About 📖
