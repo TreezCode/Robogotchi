@@ -40,7 +40,7 @@ To power this app locally, you'll need to a install a couple `NPM Packages`. Dow
 * Path `npm i path`
 * Sequelize `npm i sequelize`
 
--- or(preferably) --
+-- or (preferably) --
 
 * Shorthand `npm i` (short-hand)
 
@@ -79,5 +79,5 @@ These instructions will get you a copy of the project up and running on your loc
 <br>
 
 ## Acknowledgments 🌟
-Free Stock Footage by: <a href="http://www.videezy.com">Videezy</a>
-[RoboHash](https://robohash.org)
+Free Stock Footage by: <a href="http://www.videezy.com">Videezy</a><br>
+Generate Unique Images From Text by: [RoboHash](https://robohash.org)
