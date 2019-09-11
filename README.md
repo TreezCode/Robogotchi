@@ -4,7 +4,7 @@ Demo: [Robogotchi](https://robogotchi.herokuapp.com)
 ## About 📖
 Robogotchi is a browser based game where the user creates a cyber pet and must maintain its health status.
 
-<img src= "https://media.giphy.com/media/TgmGyY35k7ETd8IVIB/giphy.gif" alt="Robogotchi" width="75%">
+<img src= "https://media.giphy.com/media/gg9HEO0OswrYZinzU1/giphy.gif" alt="Robogotchi" width="75%">
 <hr>
 
 ## How to Use 🤔
