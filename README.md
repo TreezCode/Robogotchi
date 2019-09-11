@@ -1,6 +1,6 @@
 # Robogotchi 🤖👽👾
 
-Demo: [Robogotchi](https://trilogy-project-2.herokuapp.com)
+Demo: [Robogotchi](https://robogotchi.herokuapp.com)
 ## About 📖
 Robogotchi is a browser based game where the user creates a cyber pet and must maintain its health status.
 
@@ -79,5 +79,5 @@ These instructions will get you a copy of the project up and running on your loc
 <br>
 
 ## Acknowledgments 🌟
-Free Stock Footage by: <a href="http://www.videezy.com">Videezy</a><br>
+Free Stock Footage by: [Videezy](http://www.videezy.com)<br>
 Generate Unique Images From Text by: [RoboHash](https://robohash.org)
